@@ -16,7 +16,6 @@ export default {
 <template>
   <div>
   <AppHeader></AppHeader>
-    <h1>maIN</h1>
   </div> 
 </template>
 

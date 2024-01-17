@@ -3,16 +3,16 @@
 export default {
     data() {
        return { 
-        title : 'bella li' 
+        title : 'hello world' 
       }
     },
 }
 </script>
 
 <template>
-  <h3>
+  <h1>
     {{ title }}
-  </h3>
+  </h1>
 </template>
 
 <style scoped>
